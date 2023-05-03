@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "崩坏：星穹铁道"
-tag: 其他
 ---
 
 
