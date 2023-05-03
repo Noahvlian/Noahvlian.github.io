@@ -1,9 +1,0 @@
-links:
-- title: 主页
-  url: /
-#- title: About
-#  url: /about
-- title: 搜索
-  url: /search
-- title: Rss
-  url: /atom.xml
